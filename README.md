@@ -1,8 +1,16 @@
-# AED
+# Repositorio Personal: Algoritmo y Estructuras de Datos
 
-- Algoritmos y Estructura de datos
-- K1053, Martes, Turno noche
-- 2025, anual
-- Lautaro Ramírez
-- L.: 222.991-2
-- Github: laramirez03
+---
+
+**Alumno**: Lautaro Ramírez
+**Legajo**: 222.991-2
+
+**Comisión**: K1053 - Anual
+**Año**: 2025
+
+**Profesor**: José María Solá
+
+---
+
+Este es mi repositorio personal para la materia de Algoritmo y Estructuras de Datos
+Correo institucional: laramirez@frba.utn.edu.ar
