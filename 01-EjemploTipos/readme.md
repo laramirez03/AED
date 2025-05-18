@@ -5,7 +5,7 @@ Trabajo #1 (Grupal)
 - Algoritmos y Estructura de datos
 - K1053, Martes, Turno noche
 - 2025, anual
-- Número del equipo: [A confirmar]
+- Número del equipo: 05
 - Lautaro Ramírez
 - L.: 222.991-2
 - Github: laramirez03
