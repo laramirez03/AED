@@ -4,16 +4,16 @@ Trabajo #1 (Grupal)
 
 ---
 
-<p>**Alumno**: Lautaro Ramírez</p>
-<p>**Legajo**: 222.991-2</p>
-<p>**Github**: laramirez03</p>
-<p>**Equipo**: 05</p>
+**Alumno**: Lautaro Ramírez<br>
+**Legajo**: 222.991-2<br>
+**Github**: laramirez03<br>
+**Equipo**: 05<br>
 
-<p>**Comisión**: K1053 - Anual - Miércoles, turno noche</p>
-<p>**Año**: 2025</p>
+**Comisión**: K1053 - Anual - Miércoles, turno noche<br>
+**Año**: 2025<br>
 
-<p>**Materia**: Algoritmos y Estructura de datos</p>
-<p>**Profesor**: José María Solá</p>
+**Materia**: Algoritmos y Estructura de datos<br>
+**Profesor**: José María Solá<br>
 
 ---
 
