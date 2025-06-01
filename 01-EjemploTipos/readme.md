@@ -1,15 +1,20 @@
 # 01-EjemploTipos
 
 Trabajo #1 (Grupal)
+---
 
-- Algoritmos y Estructura de datos
-- K1053, Martes, Turno noche
-- 2025, anual
-- Número del equipo: 05
-- Lautaro Ramírez
-- L.: 222.991-2
-- Github: laramirez03
+**Alumno**: Lautaro Ramírez
+**Legajo**: 222.991-2
+**Github**: laramirez03
+**Equipo**: 05
 
+**Comisión**: K1053 - Anual - Miércoles, turno noche
+**Año**: 2025
+
+**Materia**: Algoritmos y Estructura de datos
+**Profesor**: José María Solá
+
+---
 
 Enunciado: Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipos
 de datos vistos en clases.

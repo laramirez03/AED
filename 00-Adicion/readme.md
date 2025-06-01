@@ -2,12 +2,20 @@
 
 Trabajo #0 (Introductorio)
 
-- Algoritmos y Estructura de datos
-- K1053, Martes, Turno noche
-- 2025, anual
-- Lautaro Ramírez
-- L.: 222.991-2
-- Github: laramirez03
+---
+
+**Alumno**: Lautaro Ramírez
+**Legajo**: 222.991-2
+**Github**: laramirez03
+**Equipo**: 05
+
+**Comisión**: K1053 - Anual - Miércoles, turno noche
+**Año**: 2025
+
+**Materia**: Algoritmos y Estructura de datos
+**Profesor**: José María Solá
+
+---
 
 - Problema: Obtener del usuario dos números y mostrarle la suma
 
