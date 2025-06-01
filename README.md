@@ -15,5 +15,5 @@
 
 ---
 
-Este es mi repositorio personal para la materia de Algoritmo y Estructuras de Datos
+Este es mi repositorio personal para la materia de Algoritmo y Estructuras de Datos<br>
 Correo institucional: laramirez@frba.utn.edu.ar
