@@ -4,6 +4,13 @@
 using std::cout;
 using std::string;
 
+// Versión de la función con valor de retorno
+// frase: N -> Σ* / f(x) = { ""s si x = 0, "Bart /n" * frase(x - 1) si x != 0}
+
+// Versión de la función sin valor de retorno
+// frase: N -> O / sin expresión matemática
+
+
 string frase_return(unsigned int);
 void frase_void(unsigned int);
 
