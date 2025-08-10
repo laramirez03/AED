@@ -16,12 +16,12 @@ void frase_void(unsigned int);
 
 int main(){
     assert(frase_return(0) == "");
-    assert(frase_return(1) == "Bart ");
-    assert(frase_return(4) == "Bart Bart Bart Bart ");
+    assert(frase_return(1) == "Bart");
+    assert(frase_return(4) == "BartBartBartBart");
 }
 
 string frase_return(unsigned int n){
-    return n == 0 ? "" : "Bart " + frase_return(n - 1);
+    return n == 0 ? "" : "Bart" + frase_return(n - 1);
 }
 
 void frase_void(unsigned int n){
